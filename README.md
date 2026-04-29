@@ -480,7 +480,6 @@ Possible extensions for advanced learning:
 
 ## Contact & Support
 
-**Course Instructor:** satinder.palsingh@krmangalam.edu.in  
 **Course:** Image Processing & Computer Vision  
 **Institution:** K.R. Mangalam University  
 
