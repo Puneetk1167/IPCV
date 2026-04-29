@@ -1,8 +1,8 @@
 # Image Processing & Computer Vision - Five Mini Projects
 
 **Course:** Image Processing & Computer Vision  
-**Student Name:** Lavnish Pandey  
-**Roll No:** 2301010181  
+**Student Name:** Puneet Kumar Gupta
+**Roll No:** 2301010171  
 **Date:** April 28, 2026  
 
 ---
